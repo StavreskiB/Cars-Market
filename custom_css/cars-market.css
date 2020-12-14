@@ -1,0 +1,167 @@
+body
+{
+    overflow-x: hidden;
+}
+
+.full_btn
+{
+    width: 116.6%;
+    margin-left: -22px;
+    margin-bottom: -2px;
+}
+
+
+.classhover, .classhover:hover {
+    text-decoration: none;
+}
+
+.classhover:hover {
+    opacity: 0.8;
+    cursor:pointer;
+}
+
+
+.img-card {
+    height: 175px !important;
+    width: 250px !important;
+}
+
+.img-card-slider
+{
+    height: 226px !important;
+    width: 306px !important;
+}
+
+.img-right-side
+{
+    height: 194px !important;
+    width: 306px !important;
+}
+
+.img-modal
+{
+    width: 793px !important;
+    height: 585px !important;
+}
+
+textarea
+{
+   border: 1px solid #ced4da;
+}
+
+.fas_menu
+{
+    font-size:20px !important;
+}
+
+
+.logo_image
+{
+    width: 92px;
+    height: 60px;
+}
+
+.w-98
+{
+    width:98%;
+}
+
+
+.text_color
+{
+    color: #0000FF;
+}
+
+.bg_color
+{
+    background-color: #EFF0F2;
+}
+
+
+.custom_mt4
+{
+    margin-top: 2.2rem !important;
+}
+
+.badge_class
+{
+    position: absolute !important;
+    margin-top: 4px !important;
+    margin-left: 201px !important;
+}
+
+
+.w-45
+{
+    width: 45% !important;
+}
+
+
+.ml-m6
+{
+    margin-left: -60px !important;
+}
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+.indicators_margin
+{
+    margin-bottom:343px !important;
+}
+
+.image_number_icon{
+    position: absolute !important;
+}
+
+
+.d-contents
+{
+    display: contents !important;
+}
+
+
+#scrollbar
+{
+    overflow:scroll;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    height: 1200px;
+}
+
+#scrollbar2
+{
+    overflow:scroll;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    height: 1200px;
+}
+
+.adminimage
+{
+    width: 100px;
+    height: 100px;
+}
+
+@media (max-width: 640px)
+{
+    #myslider, #logocars, .res, #rightcars
+    {
+        display: none;
+    }
+    #res_b
+    {
+        margin-left: 95px !important;
+    }
+    .custom_mt4
+    {
+        margin-left: 82px !important;
+        margin-top: -7px !important;
+    }
+}
+
