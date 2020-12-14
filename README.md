@@ -10,7 +10,7 @@ Admins
 4. Delete ads.
 5. Approval of new ads.
 
-Data for test by admin
+Data for test by admin:
 Email: admin@gmail.com
 Password: admin
 
@@ -21,7 +21,7 @@ Regular Users
 4. Sorting by price, date..
 5. Detail Search by mark, price, years of production, type of registration, type of gearbox, type of cars, type of fuel..
 
-Data for test by User
+Data for test by User:
 You can create your own account and you can also use the data below:
 
 Email: user@gmail.com
